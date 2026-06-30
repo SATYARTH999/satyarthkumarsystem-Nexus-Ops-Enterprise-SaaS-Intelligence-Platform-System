@@ -51,7 +51,7 @@ The platform helps businesses track complex KPIs, manage revenue, and streamline
 
 ## Figma Prototype
 
-
+https://www.figma.com/make/WFw55GorQPaRE26LbgL8OU/Nexus-Ops-UI-UX-Design?fullscreen=1&t=4TZxrOgb5rDbkx62-1&code-node-id=0-9
 
 ---
 
@@ -72,3 +72,5 @@ The platform helps businesses track complex KPIs, manage revenue, and streamline
 ## Author
 
 Satyarth Kumar
+
+---
