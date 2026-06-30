@@ -22,6 +22,9 @@ The platform helps businesses track complex KPIs, manage revenue, and streamline
 ### Access Control
 ![image alt](https://github.com/SATYARTH999/satyarthkumarsystem-Nexus-Ops-Enterprise-SaaS-Intelligence-Platform-System/blob/4d72282761fee9522df2af05f210171288cea9de/Screenshot%202026-07-01%20011614.png)
 
+### Revenue & Billing
+![image alt](https://github.com/SATYARTH999/satyarthkumarsystem-Nexus-Ops-Enterprise-SaaS-Intelligence-Platform-System/blob/976b6c1d50af52a72586c8272a15a030b707bde2/Screenshot%202026-07-01%20011635.png)
+
 ---
 
 ## Features
